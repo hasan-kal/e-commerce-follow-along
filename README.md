@@ -78,3 +78,17 @@ Server Setup: We initialized a Node.js server using the Express framework. The s
 Database Connection: We integrated MongoDB into the project to store and manage data. The server is now connected to MongoDB, enabling efficient data storage and retrieval.
 
 Error Handling: Basic error-handling mechanisms were added to ensure that the server can respond with clear error messages for better debugging and user feedback.
+
+
+Milestone 7: Login Endpoint 📝
+
+Create a login endpoint to authenticate users. Users provide their email/username and password. The backend compares the entered password (hashed with bcrypt) to the stored password. If valid, a JWT token is generated and returned for subsequent requests.
+
+Dependencies: bcryptjs, jsonwebtoken.
+
+Test via POST /api/auth/login with email and password in the request body.
+
+Response: Success with a token, or error for invalid credentials.
+
+
+
