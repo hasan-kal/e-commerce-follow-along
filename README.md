@@ -1,4 +1,4 @@
-# e-commerce-follow-along
+# e-commerce-application-follow-along
 
 Key Features of the Project:
 
