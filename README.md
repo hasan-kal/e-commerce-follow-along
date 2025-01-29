@@ -91,4 +91,18 @@ Test via POST /api/auth/login with email and password in the request body.
 Response: Success with a token, or error for invalid credentials.
 
 
+ Milestone 8: Product Card Component 🌟
 
+In this milestone, we focus on creating a **reusable product card component** for your e-commerce app. The goal is to showcase product details (e.g., name, image, price) in a visually appealing way, making it easy for users to browse products.
+
+#### Steps Completed:
+1. **Card Component**: Designed a reusable card that accepts product details as props.
+2. **Homepage Layout**: Implemented a grid/flexbox layout to display multiple cards neatly.
+3. **Dynamic Rendering**: Used array mapping to dynamically render cards for each product.
+
+#### Next Steps:
+In the next milestone, we’ll add features like filtering and sorting. Keep up the great work! 🚀
+
+### Submission:
+- Push your code to GitHub and ensure the repository is public.
+- Update README with your progress and share the link.
