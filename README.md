@@ -106,3 +106,8 @@ In the next milestone, we’ll add features like filtering and sorting. Keep up 
 ### Submission:
 - Push your code to GitHub and ensure the repository is public.
 - Update README with your progress and share the link.
+
+Milestone 9: Product Form Creation
+
+In this milestone, I created a frontend form for inputting product details, including multiple images. This form captures essential product information such as title, description, price, and image files, and will eventually be saved to the database. This milestone helps to understand how to handle user inputs and manage media files in a web application. Additional features like admin access for product uploads were also explored.
+
