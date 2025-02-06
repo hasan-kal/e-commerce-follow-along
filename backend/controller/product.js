@@ -32,9 +32,10 @@ router.post(
     const { name, description, category, tags, price, stock, email } = req.body;
 
     // Map uploaded files to accessible URLs
-    const images = req.files.map((file) => file.path);
-
-    // Validate input data
+    const images = req.files.map((file) => {
+      return `/product/${path.basename(file.path)}`;
+    });
+   // Validate input data
     const validationErrors = validateProductData({
       name,
       description,
@@ -73,7 +74,7 @@ router.post(
       await newProduct.save();
 
       res.status(201).json({
-        message: "✅ Product created successfully",
+        message: "Product created successfully",
         product: newProduct,
       });
     } catch (err) {
@@ -84,23 +85,23 @@ router.post(
     }
   }
 );
-// router.get("/get-products", async (req, res) => {
-//     try {
-//       const products = await Product.find();
-//       const productsWithFullImageUrl = products.map((product) => {
-//         if (product.images && product.images.length > 0) {
-//           product.images = product.images.map((imagePath) => {
-//             return imagePath;
-//           });
-//         }
-//         return product;
-//       });
-//       res.status(200).json({ products: productsWithFullImageUrl });
-//     } catch (err) {
-//       console.error(" Server error:", err);
-//       res.status(500).json({ error: "Server error. Could not fetch products." });
-//     }
-//   });
+router.get("/get-products", async (req, res) => {
+    try {
+      const products = await Product.find();
+      const productsWithFullImageUrl = products.map((product) => {
+        if (product.images && product.images.length > 0) {
+          product.images = product.images.map((imagePath) => {
+            return imagePath;
+          });
+        }
+        return product;
+      });
+      res.status(200).json({ products: productsWithFullImageUrl });
+    } catch (err) {
+      console.error(" Server error:", err);
+      res.status(500).json({ error: "Server error. Could not fetch products." });
+    }
+  });
   
 //   router.get("/my-products", async (req, res) => {
 //     const { email } = req.query;
