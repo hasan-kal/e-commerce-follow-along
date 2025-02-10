@@ -136,3 +136,8 @@ In this milestone, we will build a "My Products" page that will display all the 
 ## Overview 🌟
 
 In this milestone, we focus on implementing functionality to allow users to edit the details of previously uploaded products. This includes creating a backend endpoint to update existing data in MongoDB and modifying the frontend to auto-fill the form with existing product details, giving the user the option to edit and save the new data.
+
+## Milestone 14 - Adding Product Deletion Functionality
+
+In this milestone, we focus on implementing functionality to allow users to delete the details of previously uploaded products. 
+
