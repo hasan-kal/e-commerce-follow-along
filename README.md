@@ -141,3 +141,6 @@ In this milestone, we focus on implementing functionality to allow users to edit
 
 In this milestone, we focus on implementing functionality to allow users to delete the details of previously uploaded products. 
 
+# Milestone 15: Navbar Component Creation and Navigation
+
+Welcome to Milestone 15! In this milestone, we will learn how to create a Navbar component and add it to all screens in our application. The main goal is to make the navigation seamless and responsive across multiple pages.
