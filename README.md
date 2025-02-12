@@ -144,3 +144,7 @@ In this milestone, we focus on implementing functionality to allow users to dele
 # Milestone 15: Navbar Component Creation and Navigation
 
 Welcome to Milestone 15! In this milestone, we will learn how to create a Navbar component and add it to all screens in our application. The main goal is to make the navigation seamless and responsive across multiple pages.
+
+# Milestone 16: Product Info Page and Add to Cart Functionality
+
+Welcome to Milestone 16! In this milestone, we will focus on creating a product info page that displays detailed product data. We will also implement a feature that allows the user to select a quantity and add the product to the cart.

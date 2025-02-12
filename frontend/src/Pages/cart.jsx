@@ -1,4 +1,4 @@
-import NavBar from '../components/auth/nav';
+import NavBar from '../Components/auth/nav';
 const Cart = () => {
     return (
         <>
