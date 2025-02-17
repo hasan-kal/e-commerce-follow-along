@@ -148,3 +148,28 @@ Welcome to Milestone 15! In this milestone, we will learn how to create a Navbar
 # Milestone 16: Product Info Page and Add to Cart Functionality
 
 Welcome to Milestone 16! In this milestone, we will focus on creating a product info page that displays detailed product data. We will also implement a feature that allows the user to select a quantity and add the product to the cart.
+
+# Milestone 17: Cart Functionality
+
+Overview:-
+
+This milestone involves adding a cart feature to the user schema and implementing an endpoint to store product details in the cart.
+
+Changes Made:
+
+Cart Schema:
+
+Added a Cart schema to store products associated with the user.
+Each product contains a productId (referencing the Product model) and quantity.
+Endpoint for Adding Products to Cart:
+
+Created a POST endpoint /api/cart/add to receive product details (e.g., product ID and quantity).
+The product details are stored in the cart associated with the user in the database.
+
+# Milestone 18: Cart Functionality Update
+Overview:-
+
+In this milestone, we have added two key backend endpoints to handle cart functionalities:
+
+1. Adding products to the cart via a POST request.
+2. Fetching all products inside a user's cart using their email.
