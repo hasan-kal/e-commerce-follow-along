@@ -173,3 +173,8 @@ In this milestone, we have added two key backend endpoints to handle cart functi
 
 1. Adding products to the cart via a POST request.
 2. Fetching all products inside a user's cart using their email.
+
+# Milestone 19 - Cart Page & Quantity Control
+
+Welcome to Milestone 19 of our project! 🎉 In this milestone, we focused on creating the frontend for the cart page, allowing users to view products and manage quantities directly within the cart. Additionally, we developed backend endpoints to handle increasing and decreasing product quantities.
+
