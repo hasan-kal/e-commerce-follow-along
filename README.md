@@ -181,3 +181,8 @@ Welcome to Milestone 19 of our project! 🎉 In this milestone, we focused on cr
 # Milestone 20 - Profile Page & User Data Display
 
 Welcome to Milestone 20 of our project! 🌟 In this milestone, we focused on creating a user profile page where we can display all the user data fetched from the backend. Additionally, we developed an API endpoint to send user data, which includes details like name, profile photo, email, and addresses.
+
+# Milestone 21: Address Form Frontend
+
+
+Welcome to Milestone 21! In this milestone, we will create a frontend page form to input address details such as country, city, address1, address2, zip code, and address type. This form will be part of the profile page and allow users to add their address easily.
