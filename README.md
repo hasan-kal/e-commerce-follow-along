@@ -186,3 +186,8 @@ Welcome to Milestone 20 of our project! 🌟 In this milestone, we focused on cr
 
 
 Welcome to Milestone 21! In this milestone, we will create a frontend page form to input address details such as country, city, address1, address2, zip code, and address type. This form will be part of the profile page and allow users to add their address easily.
+
+# Milestone 22: Backend Endpoint for Storing Address in User Profile
+
+
+Welcome to Milestone 22! In this milestone, we will focus on creating a backend endpoint that will receive the address data from the frontend form and save it in the user profile in the database. This step will allow users to have their address data stored and linked to their profile.
