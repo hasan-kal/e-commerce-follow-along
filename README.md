@@ -195,3 +195,7 @@ Welcome to Milestone 22! In this milestone, we will focus on creating a backend 
 # Milestone 23: Place Order Functionality
 
 Welcome to Milestone 23! In this milestone, we focused on implementing the "Place Order" functionality, which includes creating a button inside the cart to place an order, creating a select address page, and writing a backend schema to store order details. This milestone helps in understanding the flow of placing an order and handling addresses in an e-commerce application.
+
+# Milestone 24: Order Confirmation Page
+
+Welcome to Milestone 24! In this milestone, we focused on creating the "Order Confirmation" page, where we display the products being ordered, the selected delivery address, and the total price of the cart. This step is essential in the checkout process and helps users review their order before finalizing the purchase.
