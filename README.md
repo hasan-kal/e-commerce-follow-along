@@ -191,3 +191,7 @@ Welcome to Milestone 21! In this milestone, we will create a frontend page form 
 
 
 Welcome to Milestone 22! In this milestone, we will focus on creating a backend endpoint that will receive the address data from the frontend form and save it in the user profile in the database. This step will allow users to have their address data stored and linked to their profile.
+
+# Milestone 23: Place Order Functionality
+
+Welcome to Milestone 23! In this milestone, we focused on implementing the "Place Order" functionality, which includes creating a button inside the cart to place an order, creating a select address page, and writing a backend schema to store order details. This milestone helps in understanding the flow of placing an order and handling addresses in an e-commerce application.
