@@ -199,3 +199,9 @@ Welcome to Milestone 23! In this milestone, we focused on implementing the "Plac
 # Milestone 24: Order Confirmation Page
 
 Welcome to Milestone 24! In this milestone, we focused on creating the "Order Confirmation" page, where we display the products being ordered, the selected delivery address, and the total price of the cart. This step is essential in the checkout process and helps users review their order before finalizing the purchase.
+
+# Milestone 25: Place Order Endpoint
+
+Welcome to Milestone 25! 
+
+In this milestone, we focus on creating a backend endpoint to place an order. This involves setting up an API endpoint that will allow users to place orders by providing product, user, and address details.
