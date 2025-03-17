@@ -214,4 +214,12 @@ In this milestone, we focus on creating a backend endpoint to retrieve all order
 
 # Milestone 27: My Orders Page
 
-Welcome to Milestone 27! In this milestone, we focused on creating the frontend page that displays all user orders.
+Welcome to Milestone 27! 
+
+In this milestone, we focused on creating the frontend page that displays all user orders.
+
+# Milestone 28: Cancel Order Feature
+
+Welcome to Milestone 28!
+
+ In this milestone, we focused on adding a cancel order feature to the `my-orders` page and creating a backend endpoint for handling order cancellations.
