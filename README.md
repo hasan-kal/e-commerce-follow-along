@@ -211,3 +211,7 @@ In this milestone, we focus on creating a backend endpoint to place an order. Th
 Welcome to Milestone 26! 
 
 In this milestone, we focus on creating a backend endpoint to retrieve all orders placed by a user. This involves setting up an API endpoint that allows users to fetch all their previous orders based on their email.
+
+# Milestone 27: My Orders Page
+
+Welcome to Milestone 27! In this milestone, we focused on creating the frontend page that displays all user orders.
