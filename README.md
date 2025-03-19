@@ -223,3 +223,9 @@ In this milestone, we focused on creating the frontend page that displays all us
 Welcome to Milestone 28!
 
  In this milestone, we focused on adding a cancel order feature to the `my-orders` page and creating a backend endpoint for handling order cancellations.
+
+# Milestone 29: Integrating PayPal Payment Gateway
+
+## Overview 🌟
+
+Welcome to Milestone 29 of the project! In this milestone, we are learning how to integrate the PayPal API to enable online payments in our application.
