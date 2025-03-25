@@ -235,3 +235,7 @@ Welcome to Milestone 29 of the project! In this milestone, we are learning how t
 ## Overview
 
 In this milestone, we learned how to integrate an **online payment gateway** into our React application using the **PayPal API**. This milestone is a continuation of Milestone 29, where we set up a PayPal account and obtained the user ID in the sandbox environment.
+
+# Milestone 31: Implementing Global State Management with Redux
+
+Welcome to Milestone 31! 🎯 In this milestone, we focus on implementing global state management using Redux in a React application. By the end of this milestone, you will learn how to use Redux for managing global states like storing a user's email across various components.
